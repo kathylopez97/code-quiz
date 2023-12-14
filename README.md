@@ -1,5 +1,5 @@
 # Code Quiz Assignment
- Welcome to Code Quiz Assignment The goal of assignment was to create a code game, using HTML, CSS, and Javasript.
+ Welcome to Code Quiz Assignment The goal of assignment was to create a code game, using HTML, CSS, and Javascript.
 
 ## Homework Criteria 
 ## User Story
@@ -28,7 +28,7 @@ THEN I can save my initials and my score
 ```
 ## Description
 
-- My motivation was to use my coding skills I learned in class.
+- My motivation was to use my coding skills I learned in class in CSS, Javascript, and HTML.
 - I researched how to stay organized in javascript.
 - Also, create a visual reference of a well-adapted and creative code quiz.
 
